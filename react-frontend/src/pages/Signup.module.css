@@ -1,0 +1,35 @@
+.totalContainer {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.items {
+  margin-top: 20px;
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  height: 25px;
+}
+
+.totalCard {
+  min-width: 4%;
+  width: 400px;
+}
+
+.Button {
+  background-color: rgb(33, 239, 6);
+  height: 35px;
+  display: block;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.heading {
+  font-size: 32px;
+}
